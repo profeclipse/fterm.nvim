@@ -29,4 +29,4 @@ Install the plugin with your preferred package manager, such as [folke/lazy.nvim
 
 # Ackowlegement
 
-This initial version is taken entirely from TJ Devries' [advent-of-nvim](https://github.com/tjdevries/advent-of-nvim).
+This initial version is taken entirely from TJ Devries' [Advent of nvim](https://github.com/tjdevries/advent-of-nvim).
