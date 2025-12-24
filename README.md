@@ -11,6 +11,7 @@ Install the plugin with your preferred package manager, such as [folke/lazy.nvim
   "profeclipse/fterm.nvim",
   lazy = false,
   config = function()
+    require("fterm").setup()
     -- your personal stuff here
     vim.keymap.set("n", "<leader>tt", "<cmd>Fterm<cr>", desc = { "Toggle floating terminal" })
   end,
