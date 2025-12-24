@@ -2,6 +2,8 @@
 
 A floating terminal window plugin for [NeoVim](https://github.com/neovim/neovim).
 
+**NOTE:** This plugin is experimental. It may cause weird behavior.
+
 # Installation
 
 Install the plugin with your preferred package manager, such as [folke/lazy.nvim](https://github.com/folke/lazy.nvim):
